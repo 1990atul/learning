@@ -1,3 +1,6 @@
+
+
 pwd
 ls
 ls -latr
+ifconfig
